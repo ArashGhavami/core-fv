@@ -1,0 +1,71 @@
+=========================================
+Method: CORE-FV (main_method)
+Model: Mistral-7B-v0.3
+Seed: 44
+=========================================
+antonym            82.65
+capitalize         99.38
+present-past       96.55
+singular-plural   100.00
+country-capital   100.00
+english-french     89.47
+
+=========================================
+Method: AIE (aie_baseline)
+Model: Mistral-7B-v0.3
+Seed: 42
+=========================================
+antonym            83.02
+capitalize        100.00
+present-past       94.92
+singular-plural    97.50
+country-capital    97.06
+english-french     85.95
+
+=========================================
+Method: CORE-FV (main_method)
+Model: Mistral-7B-v0.3
+Seed: 43
+=========================================
+antonym            85.67
+capitalize         97.55
+present-past       98.31
+singular-plural    92.68
+country-capital    94.12
+english-french     87.64
+
+=========================================
+Method: CORE-FV (main_method)
+Model: Mistral-7B-v0.3
+Seed: 42
+=========================================
+antonym             80.82
+capitalize         100.00
+present-past         94.92
+singular-plural       95.00
+country-capital       97.06
+english-french        86.77
+
+=========================================
+Method: AIE (aie_baseline)
+Model: Mistral-7B-v0.3
+Seed: 44
+=========================================
+antonym             85.50
+capitalize         100.00
+present-past         93.10
+singular-plural     100.00
+country-capital      94.74
+english-french       85.71
+
+=========================================
+Method: AIE (aie_baseline)
+Model: Mistral-7B-v0.3
+Seed: 43
+=========================================
+antonym             86.23
+capitalize         100.00
+present-past         98.31
+singular-plural     100.00
+country-capital      85.71
+english-french       86.19
