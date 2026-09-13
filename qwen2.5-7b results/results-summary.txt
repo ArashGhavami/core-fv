@@ -1,0 +1,71 @@
+=========================================
+Method: AIE (aie_baseline)
+Model: Qwen2.5-7B
+Seed: 42
+=========================================
+antonym            83.78
+capitalize        100.00
+present-past       98.28
+singular-plural    97.50
+country-capital    91.67
+english-french      7.65
+
+=========================================
+Method: AIE (aie_baseline)
+Model: Qwen2.5-7B
+Seed: 43
+=========================================
+antonym            85.24
+capitalize         99.39
+present-past       98.31
+singular-plural    95.12
+country-capital    97.14
+english-french      9.38
+
+=========================================
+Method: AIE (aie_baseline)
+Model: Qwen2.5-7B
+Seed: 44
+=========================================
+antonym            81.98
+capitalize        100.00
+present-past      100.00
+singular-plural   100.00
+country-capital    89.19
+english-french     47.15
+
+=========================================
+Method: CORE-FV (main_method)
+Model: Qwen2.5-7B
+Seed: 42
+=========================================
+antonym            80.78
+capitalize        100.00
+present-past       98.28
+singular-plural    97.50
+country-capital    94.44
+english-french     88.32
+
+=========================================
+Method: CORE-FV (main_method)
+Model: Qwen2.5-7B
+Seed: 43
+=========================================
+antonym            85.84
+capitalize        100.00
+present-past      100.00
+singular-plural    95.12
+country-capital    94.29
+english-french     88.04
+
+=========================================
+Method: CORE-FV (main_method)
+Model: Qwen2.5-7B
+Seed: 44
+=========================================
+antonym            84.01
+capitalize        100.00
+present-past      100.00
+singular-plural   100.00
+country-capital    94.59
+english-french     88.08
